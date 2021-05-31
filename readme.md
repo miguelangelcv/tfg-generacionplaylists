@@ -6,11 +6,7 @@ _Actualmente, mediante una suscripción a un servicio de música en streaming, t
 contenido acorde con sus gustos musicales, ya que este no puede dedicar todo su tiempo a buscar entre todo el contenido disponible. Aparte, la habilidad de búsqueda disminuye constantemente, ya que el contenido aumenta de forma significativa conforme pasan los 
 años. Para solucionar este problema, se hace uso de los sistemas de recomendación. Su influencia, presencia e importancia han ido en aumento a lo largo del tiempo, ya que nos ayudan a filtrar contenido interminable._
 
-_Este Trabajo de Fin de Grado tiene como objetivo construir un sistema para la 
-creación o completado de playlists de canciones para el servicio de música en streaming 
-Spotify. A partir de una playlist compuesta por un título y/o un conjunto inicial de canciones, 
-nuestro sistema debe ser capaz de crear una lista desde cero (en el caso de que sólo se le 
-proporcione el título) o completar una lista con canciones relacionadas a las facilitadas por 
+_Este Trabajo de Fin de Grado tiene como objetivo construir un sistema para la creación o completado de playlists de canciones para el servicio de música en streaming Spotify. A partir de una playlist compuesta por un título y/o un conjunto inicial de canciones, nuestro sistema debe ser capaz de crear una lista desde cero (en el caso de que sólo se le proporcione el título) o completar una lista con canciones relacionadas a las facilitadas por 
 el usuario y el título propuesto._
 
 <br>
