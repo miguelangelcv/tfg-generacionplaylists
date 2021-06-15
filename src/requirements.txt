@@ -1,0 +1,13 @@
+emoji==1.2.0
+ipywidgets==7.6.3
+joblib==1.0.1
+lightfm==1.16
+nltk==3.6.2
+notebook==6.4.0
+pandas==1.2.4
+regex==2021.4.4
+requests==2.25.1
+scipy==1.6.3
+sklearn==0.0
+spotipy==2.18.0
+tqdm==4.61.1
