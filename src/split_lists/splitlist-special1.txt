@@ -1,0 +1,33 @@
+january
+february
+march
+april
+may
+june
+july
+august
+september
+october
+november
+december
+sunday
+monday
+tuesday
+wednesday
+thursday
+friday
+saturday
+spring
+summer
+autumn
+winter
+christmas
+thanksgiving
+mother's day
+easter
+independence day
+father's day
+halloween
+valentine's day
+saint patrick's day
+new year's day
