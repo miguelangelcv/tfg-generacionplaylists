@@ -3,13 +3,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Servicio web para la recomendación de playlists a partir de otra playlist</h1>
+  <h1 align="center">Servicio web para la recomendación de playlists a partir de otra playlist (<i>Web service for playlists recommendation from other playlist</i>)</h1>
 
+  <br>
+  
   <p align="center">
     TFG para el <a href="https://esiiab.uclm.es/grado/datos.php">Grado en Ingeniería Informática</a> de la <a href="https://www.uclm.es">Universidad de Castilla-La Mancha</a>
     <br />
     <br />
     <a href="docs/Memoria.pdf">Memoria del proyecto</a>
+    <br><br>
   </p>
 </div>
 
@@ -36,7 +39,7 @@ This project aims to build a system for the creation or completion of playlists 
 
 <br>
 
-### Autor / Author
+## Autor / Author
 <u>Alumno / Student </u>:
 * Miguel Ángel Cantero Víllora
 
