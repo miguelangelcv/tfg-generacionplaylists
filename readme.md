@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Servicio web para la recomendación de playlists a partir de otra playlist (<i>Web service for playlists recommendation from other playlist</i>)</h1>
+  <h1 align="center">Generación automática de playlist de canciones mediante técnicas de minería de datos (<i>Automatic generation of songs playlist using data mining techniques</i>)</h1>
 
   <br>
   
